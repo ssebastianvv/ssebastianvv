@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## Hi, I'm Juan Sebastian Valenzuela!👋
 
 <!-- - 🔭 I’m currently working on [Asiste Ingenieria S.A.S](https://frontier.xyz/). -->
